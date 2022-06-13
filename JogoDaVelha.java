@@ -3,7 +3,7 @@ package jogodavelha;
 import java.util.Scanner;
 
 /**
- * @author 20202BSI0071
+ * @author Éllen Oliveira Silva Neves
  */
 
 public class JogoDaVelha {
