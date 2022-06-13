@@ -2,7 +2,7 @@
 package jogodavelha;
 
 /**
- * @author 20202BSI0071
+ * @author Éllen Oliveira Silva Neves
  */
 
 public class Tabuleiro {
